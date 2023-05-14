@@ -11674,4 +11674,8 @@ margin-bottom: 350px;
   
 }
 
-
+.btn-social {
+  border-radius: 200%;
+  width: 45px;
+  height: 45px;
+}
